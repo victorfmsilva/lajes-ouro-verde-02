@@ -1,0 +1,39 @@
+body {
+  		background: #EEDC82;
+
+  	}
+
+#titulo-inicial{
+	font-size: 48px;
+	color: black;
+	border: 3px solid green;
+	text-align: center;
+}
+
+#texto-inicial{
+	color: black;
+	text-align: center;
+}
+
+.conteudo{
+	text-align: center;
+	color: black;
+}
+
+.fotos-produtos{
+	#foto01{
+		border: 3px solid green;
+	}
+	#foto02{
+		border: 3px solid green;
+	}
+	#foto03{
+		border: 3px solid green;
+	}
+
+	text-align: center;
+}
+
+#footer{
+	text-align: center;
+}
